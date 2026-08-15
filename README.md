@@ -23,3 +23,7 @@ Seu objetivo é investigar o histórico do Git e restaurar o estado correto do p
 # 📜Regras do jogo
 - Você não pode apagar o repositório e começar do zero.
 - Envie o Link do seu repositório para demonstrar que fez as atividades
+
+  # Jogo concluido
+
+  - Para entender o passo a passo entre no arquivo .md dentro da docs
